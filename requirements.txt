@@ -1,0 +1,6 @@
+discord.py>=2.0.0
+youtube_dl>=2021.12.17
+moviepy>=1.0.3
+gTTS>=2.3.0
+python-dotenv>=0.19.2
+FFmpeg-python>=0.2.0
